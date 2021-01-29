@@ -15,7 +15,6 @@ body {
   height: 100%;
   line-height: 200px;
   text-align: center;
-  padding: 0 18px;
 }
 /* Ho dovuto creare uno span inserendo vertical align middle e line height normal perchè dando solamente una line height di 200px nel momento in cui il testo andava a capo la seconda riga saltava di 200px, mentre facendo così il testo rimane sulla stessa riga */
 [class*="col-"] span {
