@@ -22,7 +22,6 @@
 }
 /* Tutte le classi che contengono "col-" devono flottare a sinistra */
 [class*="col-"] {
-  height: 100%;
   float: left;
 }
 
